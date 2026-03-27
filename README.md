@@ -2,9 +2,19 @@
 
 A curated collection of AI research projects in biomedical domains.
 
+
 **Author:** Branislav Ceperkovic  
 Medical Doctor | AI in Medicine | Health Data Science (University of Edinburgh)  
 Zenodo DOI: https://doi.org/10.5281/zenodo.19125673
+
+
+## Blog / Research Highlights
+
+Excited to share my latest exploration on Zero-Shot Learning in Brain-Computer Interfaces:
+
+[How I’m Using Zero-Shot Learning to Hack the Brain-Computer Interface](https://medium.com/@branislavceperkovic02/how-im-using-zero-shot-learning-to-hack-the-brain-computer-interface-cc8f5ea64050)
+
+This article highlights open research code, methodologies, and future directions for AI-driven neurotechnology.
 
 ### Projects Included
 - **Zero-Shot Motor Imagery EEG Classification**  
